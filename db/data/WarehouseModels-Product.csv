@@ -1,0 +1,21 @@
+ID;Name;Description;Price;Quantity
+a1b2c3d4-1234-5678-9abc-0123456789ab;Laptop;Powerful laptop with high-performance specifications;1200;50
+b2c3d4e5-2345-6789-abcd-123456789abc;Smartphone;Latest model with advanced features and sleek design;800;100
+c3d4e5f6-3456-789a-bcde-23456789abcd;Headphones;Wireless noise-canceling headphones for immersive audio;150;75
+d4e5f6g7-4567-89ab-cdef-3456789abcde;Coffee Maker;Automatic coffee maker for brewing delicious coffee;80;30
+e5f6g7h8-5678-9abc-def0-456789abcdef;Fitness Tracker;Track your fitness activities and monitor health;60;120
+f6g7h8i9-6789-abcd-ef01-56789abcdef0;4K Smart TV;Ultra HD TV with smart features for entertainment;1000;20
+g7h8i9j0-789a-bcde-f012-6789abcdef01;Digital Camera;High-resolution camera for capturing stunning photos;500;45
+h8i9j0k1-89ab-cdef-0123-789abcdef012;Gaming Console;Latest gaming console for immersive gaming experiences;400;60
+i9j0k1l2-9abc-def0-1234-89abcdef0123;Wireless Mouse;Responsive and ergonomic wireless mouse for productivity;30;200
+j0k1l2m3-abcd-ef01-2345-9abcdef01234;External Hard Drive;High-capacity external storage for data backup;90;80
+k1l2m3n4-bcde-f012-3456-abcdef012345;Bluetooth Speaker;Portable speaker with rich audio quality;50;150
+l2m3n4o5-cdef-0123-4567-bcdef0123456;Smart Thermostat;Energy-efficient smart thermostat for home automation;120;25
+m3n4o5p6-def0-1234-5678-cdef01234567;Electric Toothbrush;Advanced electric toothbrush for oral care;40;180
+n4o5p6q7-0123-4567-89ab-def012345678;Wireless Earbuds;Compact and wireless earbuds for on-the-go audio;70;90
+o5p6q7r8-1234-5678-9abc-ef0123456789;Robot Vacuum;Smart vacuum cleaner with automated cleaning capabilities;200;40
+p6q7r8s9-2345-6789-abcd-f0123456789a;Air Purifier;HEPA air purifier for clean and fresh indoor air;150;55
+q7r8s9t0-3456-789a-bcde-123456789abc;Smartwatch;Feature-rich smartwatch for notifications and fitness tracking;180;35
+r8s9t0u1-4567-89ab-cdef-23456789abcd;Tablet;Sleek and powerful tablet for productivity and entertainment;300;15
+s9t0u1v2-5678-9abc-def0-3456789abcde;Coffee Grinder;Electric coffee grinder for freshly ground coffee;40;100
+t0u1v2w3-6789-abcd-ef01-456789abcdef;Portable Scanner;Compact scanner for digitizing documents on-the-go;70;70
