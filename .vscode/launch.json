@@ -2,25 +2,23 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "cds serve",
-      "request": "launch",
-      "type": "node",
-      "cwd": "${workspaceFolder}",
-      "runtimeExecutable": "cds",
-      "args": [
-        "serve",
-        "--with-mocks",
-        "--in-memory?"
-      ],
-      "skipFiles": [
-        "<node_internals>/**"
-      ]
-    },
-    {
-      "name": "watch",
+      "name": "CAP (DEV)",
       "command": "cds watch",
       "type": "node-terminal",
       "request": "launch"
+    },
+    {
+      "name": "VUE UI (DEV)",
+      "command": "npm run dev --prefix ./app/vueui",
+      "type": "node-terminal",
+      "request": "launch",
+    },
+  ],
+  "compounds": [
+    {
+      "name": "Server/Client",
+      "configurations": ["CAP (DEV)", "VUE UI (DEV)"],
+      "stopAll": true
     }
   ]
 }
